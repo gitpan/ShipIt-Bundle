@@ -1,0 +1,10 @@
+---
+global:
+  name: ShipIt-Bundle
+releases:
+  - author: 'Marcel Gruenauer <marcel@cpan.org>'
+    changes:
+      - original version
+    date: 2007-11-17T15:10:31Z
+    tags: []
+    version: 0.01
