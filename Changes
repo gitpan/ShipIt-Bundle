@@ -4,6 +4,14 @@ global:
 releases:
   - author: 'Marcel Gruenauer <marcel@cpan.org>'
     changes:
+      - set the version to 0.02
+      - converted to use Template::Plugin::CPAN::Packages
+      - updated t/perlcriticrc
+    date: 2007-11-21T18:23:14Z
+    tags: []
+    version: 0.02
+  - author: 'Marcel Gruenauer <marcel@cpan.org>'
+    changes:
       - original version
     date: 2007-11-17T15:10:31Z
     tags: []

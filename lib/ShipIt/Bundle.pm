@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 1;
@@ -28,17 +28,17 @@ This bundle contains L<ShipIt> and all related distributions.
 
 =head1 CONTENTS
 
-ShipIt
+ShipIt::Step::ApplyYAMLChangeLogVersion
 
-ShipIt-Step-ApplyYAMLChangeLogVersion
+ShipIt::Step::CheckYAMLChangeLog
 
-ShipIt-Step-CheckYAMLChangeLog
+ShipIt::Step::DistClean
 
-ShipIt-Step-DistClean
+ShipIt::Step::Jaiku
 
-ShipIt-Step-Manifest
+ShipIt::Step::Manifest
 
-ShipIt-Step-Twitter
+ShipIt::Step::Twitter
 
 =head1 TAGS
 
@@ -47,7 +47,7 @@ please use the C<shipitbundle> tag.
 
 =head1 VERSION 
                    
-This document describes version 0.01 of L<ShipIt::Bundle>.
+This document describes version 0.02 of L<ShipIt::Bundle>.
 
 =head1 BUGS AND LIMITATIONS
 
